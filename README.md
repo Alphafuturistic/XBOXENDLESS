@@ -10,3 +10,4 @@ hello asia
 hello south america
 hello australia
 hello africa
+hello japan
