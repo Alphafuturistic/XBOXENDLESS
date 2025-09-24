@@ -9,3 +9,4 @@ hello america
 hello asia
 hello south america
 hello australia
+hello africa
